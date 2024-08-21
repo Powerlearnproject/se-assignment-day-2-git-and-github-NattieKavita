@@ -51,10 +51,8 @@ issues and project boards are important as they help in organizing a prioritizin
 
 
 
-
-
-
-
-
-
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+best practices associated with using git hub is that you can break tasks and track your work and with tracking if incase you make a mistake you can date back and be able to correct 
+challenges associatee with github is merge issues 
+Pitfalls new users might encounter is not knowing how to correctly label your repository, not knowing how to pull request and not knowing how to merge branches this maybe be overcomed by researching on how to do it properly.
+
